@@ -10,9 +10,9 @@ I'm a backend developer that loves building tools
 
 ## Languages
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-b33939?style=for-the-badge&logo=sql&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/SQL-b33939?style=for-the-badge&logo=sql&logoColor=white" />&nbsp;
 
 ## GitHub Stats
 
