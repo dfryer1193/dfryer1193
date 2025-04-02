@@ -16,5 +16,5 @@ I'm a backend developer that loves building tools
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dfryer1193&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfryer1193&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
+<img src="https://github-readme-stats.vercel.app/api?username=dfryer1193&count_private=true&show_icons=true&theme=dark" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfryer1193&layout=donut&theme=dark&langs_count=8" />
